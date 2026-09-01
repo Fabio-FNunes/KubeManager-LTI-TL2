@@ -4,7 +4,7 @@ Trabalho Laboratorial nº 2 (TL2)
 
 Laboratório de Tecnologias de Informação
 
-EI 2024 / 25
+EI 2025 / 26
 
 Grupo 7
 
